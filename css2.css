@@ -1,0 +1,49 @@
+body{
+
+    background-image: url("http://www.zingerbug.com/Backgrounds/background_images/black_diagonal_stripes_seamless_background_pattern.jpg");
+
+}
+
+
+
+div{
+
+    background: gray;
+
+    border-radius: 15px;
+
+    width: 600px;
+
+    margin: 10px auto 20px auto;
+
+}
+
+
+
+h1{
+
+    text-align: center;
+
+    color: lightgray;
+
+    font-size: 120%;
+
+    font-family: Arial;
+
+    font-weight: normal;
+
+}
+
+
+
+img{
+
+    border-radius: 40px;
+
+    padding: 5px;
+
+    width: 31%;
+
+    height: 150px;
+
+}

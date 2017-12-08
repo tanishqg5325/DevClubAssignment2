@@ -1,37 +1,29 @@
 #div01{
-
-    background: red;
-
-    width: 600px;
-
-    height: 130px;
-
-    margin-top: 20px;
-
-    margin-left: auto;
-
-    margin-right: auto;
-
+    background-color: red;
+    width: 50%;
+    height: 150px;
+    margin: 20px auto 0;
     border-bottom: 15px solid lightgreen;
-
 }
 
-
-
 #div02{
+    background-color: blue;
+    height: 500px;
+    width: 12.5%;
+    margin-left: 25%;
+    float: left;
+}
 
-    background: yellow;
+#div03{
+    background-color: yellow;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
 
-    height: 450px;
-
-    width: 300px;
-
-    margin-left: auto;
-
-    margin-right: auto;
-
-    border-left :150px solid blue;
-
-    border-right: 150px solid lightgray;
-
+#div04{
+    background-color: lightgray;
+    height: 500px;
+    width: 12.5%;
+    float: left;
 }

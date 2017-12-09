@@ -1,0 +1,105 @@
+body{
+
+    background-image: url("https://us.123rf.com/450wm/ingalinder/ingalinder1510/ingalinder151000014/45876526-zig-zag-chevron-black-and-yellow-tile-vector-pattern-or-wallpaper-background.jpg");
+
+}
+
+
+
+#d01{
+
+    background-color: white;
+
+    border: 3px solid black;
+
+	width: 40%;
+
+	margin: 10% auto;
+
+}
+
+
+
+#d02{
+
+    background-color: lightgreen;
+
+    color: black;
+
+    font-family: "Times New Roman";
+
+    font-weight: bold;
+
+    font-size: 30px;
+
+    padding: 0 10px;
+
+    min-height: 40px;
+
+}
+
+
+
+#i01{
+
+    width: 100%;
+
+    text-indent: 3%;
+
+}
+
+
+
+#d03{
+
+	width: 100%;
+
+}
+
+
+
+ul{
+
+	list-style-type: none;
+
+	margin: 0;
+
+	padding: 0;
+
+	cursor: pointer;
+
+}
+
+
+
+ul li{
+
+    font-family: Arial;
+
+    font-size: 20px;
+
+    color: black;
+
+    padding: 2%;
+
+    min-height: 20px;
+
+}
+
+
+
+#left{
+
+    background-color: yellow;
+
+}
+
+
+
+#finished{
+
+    background-color: orange;
+
+    text-decoration: line-through;
+
+}

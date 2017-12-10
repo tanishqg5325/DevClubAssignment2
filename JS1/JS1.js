@@ -8,7 +8,7 @@ function check(ch,ide){
 	    if(ide=="i02"){
 		    let a=document.getElementById(ide);
 		    erase(a);
-		}
+	    }
 	}
 }
 

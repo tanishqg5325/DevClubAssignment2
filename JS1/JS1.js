@@ -18,7 +18,7 @@ function add(task){
     let d = new Date();
     let edit='<button id="edit" onclick="modify(this)"><img src="https://png.icons8.com/metro/540/edit.png" alt="Edit"></button>';
     let del='<button id ="delete" onclick="erase(this)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Trash_font_awesome.svg/2000px-Trash_font_awesome.svg.png" alt="Delete"></button>';
-	child.innerHTML=task+" "+d.toDateString()+edit+del;
+	child.innerHTML=task+" "+"<span>"+d.toDateString()+"</span>"+edit+del;
 	parent.insertBefore(child,parent.childNodes[0]);
 	child.addEventListener("click",final);
 }
